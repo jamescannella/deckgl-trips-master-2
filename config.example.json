@@ -1,0 +1,32 @@
+{
+  "mapConfig": {
+    "longitude": -73.6,
+    "latitude": 45.5,
+    "zoom": 10,
+    "pitch": 45,
+    "bearing": 0
+  },
+  "lighting": {
+    "ambientLight": {
+      "color": [255, 255, 255],
+      "intensity": 1.0
+    },
+    "pointLight": {
+      "color": [255, 255, 255],
+      "intensity": 2.0,
+      "position": [-74.05, 40.7, 8000]
+    }
+  },
+  "material": {
+    "ambient": 0.1,
+    "diffuse": 0.6,
+    "shininess": 32,
+    "specularColor": [60, 64, 70]
+  },
+  "dataPath": "./Users/jamescannella/Desktop/deck_trips-master/deckgl-trips-master-2/deckgl-trips-layer-data.json",
+  "mapboxToken": "pk.eyJ1IjoiamFtZXNjYW5uZWxsYSIsImEiOiJjazk4emt3eTAxYXFmM2dvNTl5MmU1b3kwIn0.Zkb6qxB9MsyrnL6uwk8ZFA",
+  "mapboxStyle": "mapbox://styles/mapbox/dark-v9",
+  "startTime": 100,
+  "endTime": 2000,
+  "trailLength": 70
+}
